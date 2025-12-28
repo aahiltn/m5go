@@ -32,5 +32,7 @@ Then, I wanted to factor in the time taken to reach the station. For me, this is
 
 Then, blending in the IR blaster code from before, it works!
 
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/e2abbefd-8ef6-4017-9dbf-a7f68ea45f47" />
+
 
 
